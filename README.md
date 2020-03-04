@@ -1,1 +1,1 @@
-# mssc-beer-service
+# MSSC Brewery BOM
